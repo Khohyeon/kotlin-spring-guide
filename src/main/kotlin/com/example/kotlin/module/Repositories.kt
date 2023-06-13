@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.module
 
 import org.springframework.data.jpa.repository.JpaRepository
 

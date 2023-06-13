@@ -1,5 +1,9 @@
 package com.example.kotlin
 
+import com.example.kotlin.module.Article
+import com.example.kotlin.module.ArticleRepository
+import com.example.kotlin.module.User
+import com.example.kotlin.module.UserRepository
 import com.ninjasquad.springmockk.MockkBean
 import io.mockk.every
 import org.junit.jupiter.api.Test

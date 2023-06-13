@@ -1,5 +1,10 @@
-package com.example.kotlin
+package com.example.kotlin.controller
 
+import com.example.kotlin.*
+import com.example.kotlin.config.BlogProperties
+import com.example.kotlin.module.Article
+import com.example.kotlin.module.ArticleRepository
+import com.example.kotlin.module.User
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model

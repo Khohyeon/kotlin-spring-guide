@@ -1,5 +1,9 @@
 package com.example.kotlin
 
+import com.example.kotlin.module.Article
+import com.example.kotlin.module.ArticleRepository
+import com.example.kotlin.module.User
+import com.example.kotlin.module.UserRepository
 import org.assertj.core.api.Assertions.assertThat
 import org.junit.jupiter.api.Test
 import org.springframework.beans.factory.annotation.Autowired

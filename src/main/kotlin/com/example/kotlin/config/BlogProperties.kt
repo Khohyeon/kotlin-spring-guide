@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.config
 
 import org.springframework.boot.context.properties.ConfigurationProperties
 

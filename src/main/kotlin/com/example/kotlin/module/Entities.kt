@@ -1,4 +1,4 @@
-package com.example.kotlin
+package com.example.kotlin.module
 
 import com.example.kotlin.toSlug
 import jakarta.persistence.Entity

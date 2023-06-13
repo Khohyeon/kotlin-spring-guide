@@ -256,7 +256,6 @@ exclude(module = "mockito-core")
 }
 ```
 - Spring Boot Test 에서 mockito-core 를 제외합니다.
-- 
 ```
 testImplementation("org.junit.jupiter:junit-jupiter-api")
 ```

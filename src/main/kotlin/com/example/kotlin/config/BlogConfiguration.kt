@@ -1,5 +1,9 @@
-package com.example.kotlin
+package com.example.kotlin.config
 
+import com.example.kotlin.module.Article
+import com.example.kotlin.module.ArticleRepository
+import com.example.kotlin.module.User
+import com.example.kotlin.module.UserRepository
 import org.springframework.boot.ApplicationRunner
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

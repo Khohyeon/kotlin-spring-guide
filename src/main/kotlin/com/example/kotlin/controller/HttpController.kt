@@ -1,5 +1,7 @@
-package com.example.kotlin
+package com.example.kotlin.controller
 
+import com.example.kotlin.module.ArticleRepository
+import com.example.kotlin.module.UserRepository
 import org.springframework.http.HttpStatus
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
